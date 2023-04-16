@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FoodBox"
+    }
+  },
+  "defaultProject": "FoodBox",
+  "cli": {
+    "analytics": "5f315c8c-c54f-47b0-9442-d159f20270d3"
+  }
 }
